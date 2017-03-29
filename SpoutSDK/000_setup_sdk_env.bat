@@ -1,7 +1,7 @@
 @REM ========================================
-@REM setup-sdk-env.bat
+@REM 000_setup_sdk_env.bat
 @REM 
-@REM 2017/03/28
+@REM 2017/03/28 The78ester
 @REM ========================================
 @SETLOCAL ENABLEDELAYEDEXPANSION 
 
