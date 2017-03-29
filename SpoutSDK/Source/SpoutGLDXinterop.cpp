@@ -194,7 +194,7 @@
 
 */
 
-#include "spoutGLDXinterop.h"
+#include "SpoutGLDXinterop.h"
 
 spoutGLDXinterop::spoutGLDXinterop() {
 
